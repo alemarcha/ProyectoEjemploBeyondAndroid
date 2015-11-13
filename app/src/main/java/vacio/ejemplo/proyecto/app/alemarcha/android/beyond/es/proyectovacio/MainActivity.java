@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         for (int i = 0; i < 10; i++) {
             Product p = new Product();
             p.setText1("hola" + i);
-            p.setText2("hola" + i);
+            p.setText2("hola2" + i);
             lst.add(p);
 
         }
